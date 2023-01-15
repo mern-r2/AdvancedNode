@@ -1,2 +1,6 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# AdvancedNode
+1. 
+2. 
+3. 
+4. 
+5. ...
